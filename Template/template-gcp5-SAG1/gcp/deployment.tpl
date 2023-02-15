@@ -1,0 +1,9 @@
+apiVersion: v1
+data:
+  .dockerconfigjson: eyJhdXRocyI6eyJodHRwczovL3NhZ2NyLmF6dXJlY3IuaW8iOnsidXNlcm5hbWUiOiJtYW51LWctcGVyc2lzdGVudC1jb20iLCJwYXNzd29yZCI6IlhxTU43V3hPOGdhSHI2M2NKanBKMWR6dEdyWGdRcGlQTUhNQjVwWXFYVCtBQ1JEbkp0K0giLCJlbWFpbCI6Im1hbnVfZ0BwZXJzaXN0ZW50LmNvbSIsImF1dGgiOiJiV0Z1ZFMxbkxYQmxjbk5wYzNSbGJuUXRZMjl0T2xoeFRVNDNWM2hQT0dkaFNISTJNMk5LYW5CS01XUjZkRWR5V0dkUmNHbFFUVWhOUWpWd1dYRllWQ3RCUTFKRWJrcDBLMGc9In19fQ==
+kind: Secret
+metadata:
+  name: sagcr
+  namespace: default
+  resourceVersion: "1456"
+type: kubernetes.io/dockerconfigjson
