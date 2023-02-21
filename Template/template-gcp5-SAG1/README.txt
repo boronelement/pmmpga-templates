@@ -1,2 +1,2 @@
-name = K8s template to deploy a image on a GKE cluster.
+name = K8s to Deploy SAG containers
 description = Deploy a image on GKE cluster.
