@@ -1,2 +1,2 @@
-name = GCP template to create GKE cluster 
+name = GKE cluster with SAG registery
 description = Creates a GKE cluster.
